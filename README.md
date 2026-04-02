@@ -36,7 +36,3 @@ interests:
 ---
 
 ###
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euvitorcarvalho&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
