@@ -32,7 +32,3 @@ interests:
 ![VSCode](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
----
-
-###
